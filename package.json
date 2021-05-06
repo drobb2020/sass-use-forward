@@ -1,0 +1,21 @@
+{
+  "name": "sass-use-and-forward-tutorial",
+  "version": "1.0.0",
+  "description": "SASS Compiler",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [
+    "SASS",
+    "and",
+    "Parcel"
+  ],
+  "author": "David Robb",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.12"
+  }
+}

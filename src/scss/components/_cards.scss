@@ -1,0 +1,8 @@
+@use '../abstracts' as *;
+
+
+.card {
+  font-size: $font-size;
+  color: $grey;
+  font-weight: $font-weight;
+}

@@ -1,0 +1,12 @@
+@use './abstracts' as *;
+@use 'components/cards';
+
+body {
+  font-size: $font-size;
+  background-color: $dark;
+  color: $light;
+}
+
+h1 {
+  color: $red;
+}
